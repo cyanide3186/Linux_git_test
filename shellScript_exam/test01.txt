@@ -1,0 +1,3 @@
+hello linux
+
+this sample text for git and... much more....
