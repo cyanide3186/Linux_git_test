@@ -1,0 +1,6 @@
+hello Linux and VI editor
+
+this is sample text for testing VI editor 
+
+seeya!!
+
