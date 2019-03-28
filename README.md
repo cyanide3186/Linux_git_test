@@ -1,1 +1,1 @@
-# Linux_git_test
+ for practicing vi editor and shellscript on linux
