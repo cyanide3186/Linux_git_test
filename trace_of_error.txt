@@ -1,0 +1,10 @@
+2019-03-28-TUE
+-오류:
+fatal: unable to access 'https://github.com/cyanide3186/Linux_git_test.git/': Could not resolve proxy: proxy.server.com; 알 수 없는 오류
+
+-원인:
+프록시 설정이 꼬인건데 정확하게 뭔지 모르겠다
+
+-해결책:
+git config --global --unset http.proxy
+공통 프록시 설정을 삭제 
