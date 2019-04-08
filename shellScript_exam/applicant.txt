@@ -1,0 +1,15 @@
+번호,이름,성별,생년월일,합격여부
+1,Peter,M,930503,pass
+2,John,M,911110,pass
+3,Tom,M,880818,fail
+4,Julia,F,890201,fail
+5,Steve,M,921207,pass
+6,Alice,F,940616,pass
+
+#original text
+#1,Peter,M,930503,fail
+#2,John,M,911110,fail
+#3,Tom,M,880818,fail
+#4,Julia,F,890201,fail
+#5,Steve,M,921207,pass
+#6,Alice,F,940616,fail
