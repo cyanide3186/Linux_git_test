@@ -1,11 +1,11 @@
 Chameleon
 Butterfly
 Chicken
-tiger
+dog
 bull
 fox
 wolf
-tiger
+cat
 gorila
 tiger
 pig
